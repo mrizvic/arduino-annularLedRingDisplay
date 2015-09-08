@@ -1,4 +1,4 @@
-ARDUINO ANNUAL LED DRIVER
+# ARDUINO ANNUAL LED DRIVER
 
 The purpose of this sketch (should you choose to install it) is to drive annual LED display with Arduino. You can find this kind of display on ebay using 'annular led ring display' query.
 
