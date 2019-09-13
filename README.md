@@ -22,5 +22,4 @@ In order to light the pixels on the display one has to send series of ones and z
 Program code how to manipulate with pixels in the sketch itself can be implemented in a straightforward manner.
 
 ## License
-
-Beerware ;)
+Beerware or if you find this useful you can buy me a coffee :) https://ko-fi.com/markor
